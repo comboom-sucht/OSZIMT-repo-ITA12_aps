@@ -1,0 +1,1 @@
+SELECT * FROM t_geraete ORDER BY P_Inventar_Nr ASC;
